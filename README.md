@@ -11,7 +11,7 @@ This project is a memory game where you need to match the cards. There are total
 
 ## Instructions
 
-The project built by using HTML, CSS, and Javacript. The logic is controlled by the web API inside app.js.
+The project built by using HTML, CSS, and Javacript.
 To try the game, you can clone this repo by typing
 
 ```
